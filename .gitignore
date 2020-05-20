@@ -1,6 +1,9 @@
 /node_modules
 /build
 
+database.js
+dev.js
+
 .DS_Store
 
 npm-debug.log*
